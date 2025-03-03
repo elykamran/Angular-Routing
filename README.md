@@ -1,6 +1,3 @@
-<p align="center">
-    <img src="_images-angular-routing/angular-logo-1.png" alt="angular logo" title="angular logo" width="200" />
-</p>
 
 Working with Angular Routing and Navigation 
 =====================
